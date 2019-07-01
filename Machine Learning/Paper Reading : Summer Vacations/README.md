@@ -1,6 +1,6 @@
 
 # Paper Reading : Summer Vacations
-Paper Reading - Going Deeper With Convolutions (2014) 
+Paper Reading - Going Deeper With Convolutions by Szegedy et. al. (2014) 
 
 # Resources
 Link to Paper - [Going Deeper With Convolutions](https://arxiv.org/abs/1409.4842)
@@ -79,4 +79,5 @@ Link to Paper - [Going Deeper With Convolutions](https://arxiv.org/abs/1409.4842
 * _Top-5 Error_ : **6.67%** on both validation and testing data ranking 1st.
 	* VGG Error : 7.32% on testing data ranking 2nd. 
 
-
+# Credits
+_Summary compiled by: [Rishabh Tiwari](https://github.com/rishabh-16)_
